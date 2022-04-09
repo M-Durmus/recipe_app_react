@@ -12,7 +12,7 @@ const Login = () => {
      <LoginContainer>
          <FormContainer>
          <StyledImg src={mealSvg}/>
-         <Header>{"<Clarusway/>"}Recipe</Header>
+         <Header>{"<MEHMETŞEF/>"}Recipe</Header>
 
         <StyledForm onSubmit={handleSubmit}>
             <StyledInput type="text" placeholder="username" required/>
